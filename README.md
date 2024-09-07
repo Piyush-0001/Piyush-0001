@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Piyush-0001
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning DSA using Java
+- 👀 I’m interested in Programming.
 
 <!---
 Piyush-0001/Piyush-0001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
